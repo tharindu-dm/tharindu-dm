@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tharindu-dm
+- 👀 I’m interested in java,python, sql, javascript, c
+- 🌱 I’m currently learning all above mentioned lang.s
