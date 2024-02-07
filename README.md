@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @tharindu-dm
 - 👀 I’m interested in java, python, sql, javascript, c, rust
-- 🌱 I’m currently an undergradute 
+- 🌱 I’m currently an undergradute following Computer Science Degree.
+- As for background education. I'm currently doing Unity Learn pathways
