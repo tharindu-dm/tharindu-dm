@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @tharindu-dm
-- 👀 I’m interested in java, python, sql, javascript, c, rust
-- 🌱 I’m currently an undergradute following Computer Science Degree.
-- As for background education. I'm currently doing Unity Learn pathways
+- 👀 I’m interested in Augmented Reality and Virtual reality, C#, Unity3D
+- 🌱 I’m currently an undergraduate pursuing a Computer Science Degree at the University of Colombo School of Computing.
+- ✨ As for background education. I'm currently doing Unity Learn pathways
+- 🔠 I play word games like wordle, letterbox, connection and even Scrabble as hobbies
+- 📺 I enjoy watching Anime (It kinda helped me to learn bits-n-pieces of Japanese as well)
