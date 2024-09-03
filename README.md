@@ -69,7 +69,7 @@
 </br>
 </br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu-dm&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu-dm&langs_count=8&hide=ShaderLab,HLSL&show_icons=true&theme=tokyonight&locale=en&layout=compact"
         alt="tharindu-dm" />
 </div>
 </br>
