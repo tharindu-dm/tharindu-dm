@@ -73,6 +73,10 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu-dm&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="tharindu-dm" />
+</div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tharindu-dm&rank_icon=github&show_icons=true&theme=tokyonight&locale=en" alt="tharindu-dm" />
+</div>
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tharindu-dm&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=467" alt="tharindu-dm" />
 </div>
